@@ -1,48 +1,65 @@
+
 ---
 
-# Python Concepts – Learning Notes
+# 🐍 Python Concepts – Learning Notes
 
 This repository contains my **Python learning notes and practice codes**.
-I have been learning Python from [W3Schools Python Tutorial](https://www.w3schools.com/python/).
+I studied Python concepts from [W3Schools Python Tutorial](https://www.w3schools.com/python/), including both **Python basics** and **File Handling**.
+
+---
 
 ## 📚 Topics Covered
 
-I have studied the following concepts so far:
+### 🔹 Python Tutorial
 
-* **Python Basics**
+* Python HOME
+* Python Intro
+* Python Get Started
+* Python Syntax
+* Python Comments
+* Python Variables
+* Python Data Types
+* Python Numbers
+* Python Casting
+* Python Strings
+* Python Booleans
+* Python Operators
+* Python Lists
+* Python Tuples
+* Python Sets
+* Python Dictionaries
+* Python If...Else
+* Python Match
+* Python While Loops
+* Python For Loops
+* Python Functions
+* Python Lambda
+* Python Arrays
+* Python OOP
+* Python Classes/Objects
+* Python Inheritance
+* Python Iterators
+* Python Polymorphism
+* Python Scope
+* Python Modules
+* Python Dates
+* Python Math
+* Python JSON
+* Python RegEx
+* Python PIP
+* Python Try...Except
+* Python String Formatting
+* Python User Input
+* Python VirtualEnv
 
-  * Syntax
-  * Variables
-  * Data Types
-  * Operators
-  * Strings
-  * Lists, Tuples, Sets, Dictionaries
+### 🔹 File Handling
 
-* **Control Flow**
+* Python File Handling
+* Python Read Files
+* Python Write/Create Files
+* Python Delete Files
 
-  * If...Else statements
-  * Loops (`for`, `while`)
-  * Functions
-
-* **Advanced Topics**
-
-  * File Handling (read, write, append, delete files)
-  * Exceptions
-  * Modules
-  * Classes & Objects (OOPs basics)
-
-> 🔖 Other topics can be referred from W3Schools official website:
-> [https://www.w3schools.com/python/](https://www.w3schools.com/python/)
-
-## 📝 File Handling in Python
-
-Some examples I practiced include:
-
-* Opening files (`open()`)
-* Reading files (`read()`, `readline()`, `readlines()`)
-* Writing and appending (`write()`, `writelines()`)
-* Closing files (`close()`)
-* Deleting files with `os.remove()`
+---
 
 ## 🚀 How to Use
 
@@ -52,17 +69,24 @@ Some examples I practiced include:
    git clone https://github.com/your-username/python-concepts.git
    cd python-concepts
    ```
-2. Run Python files:
+2. Run any Python file:
 
    ```bash
    python filename.py
    ```
 
+---
+
 ## 🎯 Purpose
 
-* To practice and strengthen my understanding of **Python programming**
-* To maintain a personal reference of Python examples I learned from **W3Schools**
+* To **practice Python programming**
+* To **document concepts learned** from W3Schools
+* To build a **personal reference repository**
+
+---
 
 ## 📌 Reference
 
 * [W3Schools Python Tutorial](https://www.w3schools.com/python/)
+
+
